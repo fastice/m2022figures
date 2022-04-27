@@ -1,4 +1,4 @@
-# f2022figures
+#m2022figures
 
 This repository provides some working examples of producing figures with GrIMP packages, but the are not tutorial in nature. More in depth tutorials are located [here](https://github.com/fastice/GrIMPTools)
 
