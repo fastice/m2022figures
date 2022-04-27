@@ -6,7 +6,7 @@ This repository provides some working examples of producing figures with GrIMP p
 
 These notebooks can all be run in the cloud by using the binder links below. 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fastice/f2022figures/HEAD?urlpath=lab) (potentially faster)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fastice/m2022figures/HEAD?urlpath=lab) (potentially faster)
 
 [![Binder](https://gesis.mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/v2/gh/fastice/m2022figures/HEAD?urlpath=lab) (more memory)
 
