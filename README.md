@@ -10,4 +10,4 @@ These notebooks can all be run in the cloud by using the binder links below.
 
 [![Binder](https://gesis.mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/v2/gh/fastice/m2022figures/HEAD?urlpath=lab) (more memory)
 
-Note Figures 1 & 2 must download several hundred files, which takes tens of minutes. Binder will time out if not in the foreground. The other notebooks run in a few minutes or less.
+Note Figures 1 & 2 must download several hundred files, which takes tens of minutes. Binder will time out if not in the foreground. The other notebooks run in a few minutes or less. Figures 1&2 also need one of the binder instances with more memory (>2GB).
