@@ -5,10 +5,13 @@ channels:
   - conda-forge
 dependencies:
   - python=3.8
+  # Pin this to avoid gdal issues on osx
+  - blosc<=1.21.0
   - dask
   - datashader
   - fsspec
   - gdal
+  - tiledb=2.7.1
   - geoviews  
   - geopandas
   - holoviews
@@ -28,6 +31,5 @@ dependencies:
     - git+https://github.com/fastice/grimpfunc.git@master
     - git+https://github.com/fastice/grimpqgis.git@master
     - git+https://github.com/fastice/nisardev.git@main
-    - git+http://github.com/developmentseed/rio-stac@master
-    
+    - git+https://github.com/developmentseed/rio-stac@main
     
